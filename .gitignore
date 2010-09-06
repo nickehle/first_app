@@ -8,7 +8,7 @@ doc/app
 *.swp
 *~
 .DS_StorE
-
+gvim.exe.stackdump
 
 
 
